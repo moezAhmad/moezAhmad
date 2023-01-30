@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moezAhmad
-- 👀 I’m Java developer mainly intrested in android applications
-- 🌱 I’m currently learning React 
+- 👀 I’m JavaScript developer, intrested in web applications
+- 🌱 I’m currently learning Node 
 - 📫 Email me moahmad.bscs20seecs@seecs.edu.pk  
 
 <!---
